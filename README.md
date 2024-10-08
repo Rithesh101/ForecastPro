@@ -15,10 +15,8 @@ Uses ttkbootstrap for a polished and responsive user interface.
 Weather Icons
 Fetches and displays dynamic weather icons based on current weather conditions.
 
-Asynchronous API Calls (optional)
-Designed to handle API requests asynchronously, ensuring the application remains responsive.
-
 Technologies Used:
+
 Python (with Tkinter for GUI)
 
 ttkbootstrap for a modern widget theme
