@@ -19,7 +19,11 @@ Designed to handle API requests asynchronously, ensuring the application remains
 
 Technologies Used
 Python (with Tkinter for GUI)
+
 ttkbootstrap for a modern widget theme
+
 OpenWeatherMap API for real-time weather data
+
 Matplotlib for graphing temperature forecasts
+
 Pillow (PIL) for displaying weather icons
