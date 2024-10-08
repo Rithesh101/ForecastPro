@@ -1,7 +1,7 @@
 # ForecastPro
 This is a simple yet interactive weather application built using Tkinter and ttkbootstrap for a modern, responsive UI. The app fetches real-time weather data and a 5-day forecast for any city using the OpenWeatherMap API, displaying the results in a user-friendly interface.
 
-Key Features:
+# Key Features:
 
 Real-time Weather Information
 Enter a city name and retrieve the current temperature, humidity, weather description, and weather icon.
@@ -15,7 +15,7 @@ Uses ttkbootstrap for a polished and responsive user interface.
 Weather Icons
 Fetches and displays dynamic weather icons based on current weather conditions.
 
-Technologies Used:
+# Technologies Used:
 
 Python (with Tkinter for GUI)
 
@@ -26,3 +26,7 @@ OpenWeatherMap API for real-time weather data
 Matplotlib for graphing temperature forecasts
 
 Pillow (PIL) for displaying weather icons
+
+# Screenshots:
+![image](https://github.com/user-attachments/assets/8d008a8a-a852-499b-9aca-47929c499ba5)
+
